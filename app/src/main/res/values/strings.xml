@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">OMG Android</string>
-    <string name="hello_world">Andrew is Learning Android</string>
+    <string name="hello_world">Andrew is totally Learning Android</string>
     <string name="action_settings">Settings</string>
 
 </resources>
